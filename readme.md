@@ -98,13 +98,13 @@ DATABASE_URL=mongodb_uri
 <details>
   <summary><b>Vars and Details :</b></summary>
 
-`API_ID` : Goto [my.telegram.org](https://my.telegram.org) to obtain this.
+`API_ID` : Goto [my.telegram.org](22253680) to obtain this.
 
-`API_HASH` : Goto [my.telegram.org](https://my.telegram.org) to obtain this.
+`API_HASH` : Goto [my.telegram.org](4fc4c646519fe43891bebd1449744b7e) to obtain this.
   
 `MY_PASS` : Bot PASSWORD
 
-`BOT_TOKEN` : Get the bot token from [@BotFather](https://telegram.dog/BotFather)
+`BOT_TOKEN` : Get the bot token from [@BotFather](7129159590:AAE51Rxvf1YmtPE-yCRIWcr2ea7BQOh39_4)
 
 `BIN_CHANNEL` : Create a new channel (private/public), add [@missrose_bot](https://telegram.dog/MissRose_bot) as admin to the channel and type /id. Now copy paste the ID into this field.
   
@@ -114,7 +114,7 @@ DATABASE_URL=mongodb_uri
 
 `DATABASE_URL` : MongoDB URI for saving User IDs when they first Start the Bot. We will use that for Broadcasting to them. I will try to add more features related with Database. If you need help to get the URI you can click on logo below!
 
-[![mongo](https://telegra.ph/file/fd68906852c71fdd68bef.jpg)](https://www.youtube.com/watch?v=HhHzCfrqsoE)
+[![mongo](https://telegra.ph/file/fd68906852c71fdd68bef.jpg)]
 
  Option Vars
 
@@ -150,6 +150,5 @@ To get an instant stream link, just forward any media to the bot and boom, its f
 Bot also Supported with Channels. Just add bot Channel as Admin. If any new file comes in Channel it will edit it with **Get Download Link** Button. </details>
 
 ### Credits : 
-- [Rishikesh-Sharma09](https://github.com/Rishikesh-Sharma09)
-- [adarsh-goel](https://github.com/adarsh-goel)
+- [Aman-Pathak1](https://github.com/Amanpathak1)
 - Everyone In This Journey !
